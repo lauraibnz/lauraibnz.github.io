@@ -18,4 +18,4 @@ Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC),
 
 [THISPERSONDOESNOTEXIST](https://www.michaelbrailey.com/thispersondoesnotexist) - AI-generated image, 2021
 
-[bod [包家巷]: »Sentient sounds impossible to avoid«](https://pw-magazine.com/2020/bod-sentient-sounds-impossible-to-avoid) - AI-generated image, 2020
+[bod [包家巷]: »MUSIC FOR SELF ESTEEM«](https://pw-magazine.com/2020/bod-sentient-sounds-impossible-to-avoid) - AI-generated image, 2020

@@ -14,7 +14,7 @@ Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC),
 
 ### Other AI-related projects
 
-[Cellar Song for Five Voices](https://www.virtuallyrealityevents.com/emmettwilliams) - AI-generated voice and image, 2021
+[Cellar Song for Five Voices](https://www.virtuallyrealityevents.com/emmettwilliams) - AI-generated text, voice and image, 2021
 
 [THISPERSONDOESNOTEXIST](https://www.michaelbrailey.com/thispersondoesnotexist) - AI-generated image, 2021
 

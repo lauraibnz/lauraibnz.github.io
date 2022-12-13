@@ -6,7 +6,7 @@ Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC),
 
 ### Work experience
 
-[Pixtunes](https://www.pixtunes.com/) - Machine Learning Engineer for audio applications, 2019-2021
+[Pixtunes](https://www.pixtunes.com/) - Machine Learning Engineer for music applications, 2019-2021
 
 ### Workshops
 

@@ -2,13 +2,27 @@
 layout: default
 ---
 
-Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC), currently coursing a Master's in AI Research (UNED) and specializing in the use of deep learning techniques for music applications.
+Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC), currently coursing a Master's in Artificial Intelligence Research (UNED) and specializing in the use of deep learning techniques for generative music applications.
 
 ### Work experience
 
-[Pixtunes](https://www.pixtunes.com/) - Machine Learning Engineer for music applications, 2019-2021
+[AudioShake](https://www.audioshake.ai/) - Machine Learning Engineer (freelance), 2023-present
+
+[Pixtunes](https://www.pixtunes.com/) - Machine Learning Engineer, 2019-2021
+
+### Education
+
+[UNED](https://www.uned.es/) - Master's Degree in Artificial Intelligence Research, 2021-present
+
+[TU Berlin](https://www.tu.berlin/) - Erasmus+ Programme, 2018-2019
+
+[UPC](https://www.upc.edu/) - Bachelor's Degree in Industrial Electronics and Automatic Control Engineering, 2013-2019
+
+[ESMUC](https://www.esmuc.cat/) - Bachelor of Music in Guitar: Classical and Contemporary Music Performance, 2013-2017
 
 ### Workshops
+
+[MIDI-AudioLDM](https://huggingface.co/spaces/lauraibnz/midi-audioldm) - Sónar+D Festival Project Area, 2023
 
 [Soundscape AI](https://soundscape-ai.netlify.app/) - Ars Electronica AIxMusic Online Hackathon, 2020
 

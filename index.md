@@ -20,7 +20,7 @@ Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC),
 
 [ESMUC](https://www.esmuc.cat/) - Bachelor of Music in Guitar: Classical and Contemporary Music Performance, 2013-2017
 
-### Workshops
+### Applications
 
 [MIDI-AudioLDM](https://huggingface.co/spaces/lauraibnz/midi-audioldm) - Sónar+D Project Area, 2023
 

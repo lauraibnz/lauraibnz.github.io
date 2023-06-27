@@ -22,7 +22,7 @@ Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC),
 
 ### Workshops
 
-[MIDI-AudioLDM](https://huggingface.co/spaces/lauraibnz/midi-audioldm) - Sónar+D Festival Project Area, 2023
+[MIDI-AudioLDM](https://huggingface.co/spaces/lauraibnz/midi-audioldm) - Sónar+D Project Area, 2023
 
 [Soundscape AI](https://soundscape-ai.netlify.app/) - Ars Electronica AIxMusic Online Hackathon, 2020
 

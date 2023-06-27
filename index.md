@@ -18,7 +18,7 @@ Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC),
 
 [UPC](https://www.upc.edu/) - Bachelor's Degree in Industrial Electronics and Automatic Control Engineering, 2013-2019
 
-[ESMUC](https://www.esmuc.cat/) - Bachelor of Music in Performance: Classical and Contemporary Music (Guitar), 2013-2017
+[ESMUC](https://www.esmuc.cat/) - Bachelor of Music in Performance: Classical and Contemporary Music (guitar), 2013-2017
 
 ### Applications
 

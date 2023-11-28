@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC), currently coursing a Master's in Artificial Intelligence Research (UNED) and specializing in the use of deep learning techniques for generative music applications.
+Laura Ibáñez is a Machine Learning Engineer and Researcher specializing in Music Information Retrieval (MIR) tasks, with a particular interest in generative music. After graduating in Electronics Engineering (UPC) and Music Studies (ESMUC), she has recently completed a Master's Degree in AI Research (UNED).
 
 ### Work experience
 

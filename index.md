@@ -15,7 +15,7 @@ Laura Ibáñez is a graduate in Electronics Engineering (UPC) and Music (ESMUC),
 ### Education
 
 [UNED](https://www.uned.es/) - Master's Degree in Artificial Intelligence Research, 2021 - 2023
-- Master's Thesis: _MIDI-AudioLDM: MIDI-Conditional Text-to-Audio Synthesis Using ControlNet on AudioLDM_
+- [Master's Thesis](https://lauraibnz.github.io/docs/TFM.pdf): _MIDI-AudioLDM: MIDI-Conditional Text-to-Audio Synthesis Using ControlNet on AudioLDM_
 
 [TU Berlin](https://www.tu.berlin/) - Erasmus+ Programme, 2018 - 2019
 

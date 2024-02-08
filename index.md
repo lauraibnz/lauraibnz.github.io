@@ -6,22 +6,22 @@ Laura Ibáñez is a Machine Learning Engineer and Researcher specializing in Mus
 
 ### Work experience
 
-[Pixelynx](https://pixelynx.io/) - Machine Learning Engineer, 2023 - _present_
+[PIXELYNX](https://pixelynx.io/) - Machine Learning Engineer, 2023 - _present_
 
 [AudioShake](https://www.audioshake.ai/) - Machine Learning Engineer (freelance), 2023
 
-[Pixtunes](https://www.pixtunes.com/) - Machine Learning Engineer, 2019 - 2021
+[Pixtunes GmbH](https://www.pixtunes.com/) - Machine Learning Engineer, 2019 - 2021
 
 ### Education
 
-[UNED](https://www.uned.es/) - Master's Degree in Artificial Intelligence Research, 2021 - 2023
+[Universidad Nacional de Educación a Distancia (UNED)](https://www.uned.es/) - Master's Degree in Artificial Intelligence Research, 2021 - 2023
 - [Master's Thesis](https://lauraibnz.github.io/docs/TFM.pdf): _MIDI-AudioLDM: MIDI-Conditional Text-to-Audio Synthesis Using ControlNet on AudioLDM_
 
-[TU Berlin](https://www.tu.berlin/) - Erasmus+ Programme, 2018 - 2019
+[Technische Universität Berlin (TU Berlin)](https://www.tu.berlin/) - Erasmus+ Programme, 2018 - 2019
 
-[UPC](https://www.upc.edu/) - Bachelor's Degree in Industrial Electronics and Automatic Control Engineering, 2013 - 2019
+[Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/) - Bachelor's Degree in Industrial Electronics and Automatic Control Engineering, 2013 - 2019
 
-[ESMUC](https://www.esmuc.cat/) - Bachelor of Music in Performance: Classical and Contemporary Music - guitar, 2013 - 2017
+[Escola Superior de Música de Catalunya (ESMUC)](https://www.esmuc.cat/) - Bachelor of Music in Performance: Classical and Contemporary Music - guitar, 2013 - 2017
 
 ### Applications
 

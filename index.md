@@ -10,7 +10,7 @@ Laura Ibáñez is a Machine Learning Engineer and Researcher specializing in Mus
 
 [AudioShake](https://www.audioshake.ai/) - Machine Learning Engineer (freelance), 2023
 
-[Pixtunes GmbH](https://www.pixtunes.com/) - Machine Learning Engineer, 2019 - 2021
+[Pixtunes GmbH](https://www.linkedin.com/company/pixtunes/) - Machine Learning Engineer, 2019 - 2021
 
 ### Education
 

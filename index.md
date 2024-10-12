@@ -6,13 +6,17 @@ Laura Ibáñez is a Machine Learning Engineer and Researcher specializing in Mus
 
 ### Work experience
 
-[PIXELYNX](https://pixelynx.io/) - Machine Learning Engineer, 2023 - _present_
+[MTG](https://www.upf.edu/web/mtg) - Doctoral Student, 2024 - _present_
+
+[PIXELYNX](https://pixelynx.io/) - Machine Learning Engineer, 2023 - 2024
 
 [AudioShake](https://www.audioshake.ai/) - Machine Learning Engineer (freelance), 2023
 
 [Pixtunes GmbH](https://www.linkedin.com/company/pixtunes/) - Machine Learning Engineer, 2019 - 2021
 
 ### Education
+
+[Universitat Pompeu Fabra (UPF)](https://www.upf.edu/) - PhD in Information and Communication Technologies, 2024 - _present_
 
 [Universidad Nacional de Educación a Distancia (UNED)](https://www.uned.es/) - Master's Degree in Artificial Intelligence Research, 2021 - 2023
 - [Master's Thesis](https://lauraibnz.github.io/docs/TFM.pdf): _MIDI-AudioLDM: MIDI-Conditional Text-to-Audio Synthesis Using ControlNet on AudioLDM_

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Laura Ibáñez is a Machine Learning Engineer and Researcher specializing in Music Information Retrieval (MIR) tasks, with a particular interest in generative music. After graduating in Electronics Engineering (UPC) and Music Studies (ESMUC), she has recently completed a Master's Degree in AI Research (UNED).
+Laura Ibáñez is a Machine Learning Engineer and Researcher specializing in Music Information Retrieval (MIR) tasks, with a particular interest in generative music. After graduating in Electronics Engineering (UPC) and Music Studies (ESMUC), followed by a Master's Degree in AI Research (UNED), she is currently a PhD student at Music Technology Group (MTG) in Barcelona.
 
 ### Work experience
 
-[MTG](https://www.upf.edu/web/mtg) - Doctoral Student, 2024 - _present_
+[Music Technology Group (MTG)](https://www.upf.edu/web/mtg) - Doctoral Student, 2024 - _present_
 
 [PIXELYNX](https://pixelynx.io/) - Machine Learning Engineer, 2023 - 2024
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Laura Ibáñez is a Machine Learning Engineer and Researcher specializing in Music Information Retrieval (MIR) tasks, with a particular interest in generative music. After graduating in Electronics Engineering (UPC) and Music Studies (ESMUC), followed by a Master's Degree in AI Research (UNED), she is currently a PhD student at Music Technology Group (MTG) in Barcelona.
+Laura Ibáñez is a PhD student at the Music Technology Group (MTG), Universitat Pompeu Fabra (UPF), where she carries out research on controllable music generation with multimodal conditioning under the supervision of Xavier Serra and Martín Rocamora. Her background includes studies in Music (ESMUC) and Electronics Engineering (UPC), as well as a Master's Degree in AI Research (UNED).
 
 ### Work experience
 
@@ -34,6 +34,8 @@ Laura Ibáñez is a Machine Learning Engineer and Researcher specializing in Mus
 [Soundscape AI](https://soundscape-ai.netlify.app/) - Ars Electronica AIxMusic Online Hackathon, 2020
 
 ### Other AI-related projects
+
+[Hotlines - Materia Afectiva](https://www.comunidad.madrid/actividades/2025/exposicion-materia-afectiva) - AI conversational agent, 2025
 
 [Cellar Song for Five Voices](https://www.virtuallyrealityevents.com/emmettwilliams) - AI-generated text, voice and image, 2021
 

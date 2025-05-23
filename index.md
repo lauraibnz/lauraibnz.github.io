@@ -8,7 +8,7 @@ Laura Ibáñez is a PhD student at the Music Technology Group (MTG), Universitat
 
 [Music Technology Group (MTG)](https://www.upf.edu/web/mtg) - Doctoral Student, 2024 - _present_
 
-[PIXELYNX](https://pixelynx.io/) - Machine Learning Engineer, 2023 - 2024
+[PIXELYNX](https://www.linkedin.com/company/pixelynx-io) - Machine Learning Engineer, 2023 - 2024
 
 [AudioShake](https://www.audioshake.ai/) - Machine Learning Engineer (freelance), 2023
 

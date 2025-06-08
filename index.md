@@ -33,9 +33,15 @@ Laura Ibáñez is a PhD student at the Music Technology Group (MTG), Universitat
 
 [Soundscape AI](https://soundscape-ai.netlify.app/) - Ars Electronica AIxMusic Online Hackathon, 2020
 
+### Talks
+
+[Explorando IA con prácticas artísticas](https://www.comunidad.madrid/actividades/2025/exposicion-materia-afectiva#charla-nerea-gracia-laura-ibanez-sam-fuentes) - Sala de Arte Joven, 2025
+
+[IA y Música: MIDI-AudioLDM](https://volumens.es/es/project/laura-ibanez/) - Volumens, 2023
+
 ### Other AI-related projects
 
-[Hotlines - Materia Afectiva](https://www.comunidad.madrid/actividades/2025/exposicion-materia-afectiva) - AI conversational agent, 2025
+[Materia Afectiva: Hotlines](https://www.comunidad.madrid/actividades/2025/exposicion-materia-afectiva) - AI conversational agent, 2025
 
 [Cellar Song for Five Voices](https://www.virtuallyrealityevents.com/emmettwilliams) - AI-generated text, voice and image, 2021
 

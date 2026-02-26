@@ -15,7 +15,7 @@ body {
   margin: 0;
   background: #ffffff;
   color: var(--text);
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   line-height: 1.55;
   font-size: 15px;
 }
